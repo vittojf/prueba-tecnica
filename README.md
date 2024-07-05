@@ -1,6 +1,17 @@
 
-## Instalar proyecto
+## Instalar Dependencias
 
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+## Levantar proyecto
 Primero, ejecuta el servidor de desarrollo:
 
 ```bash
