@@ -1,9 +1,9 @@
 
-## Prueba Tecnica - Perfil de usuario
+# Prueba Tecnica - Perfil de usuario
 
 
 
-# Instalación y Ejecucion
+## Instalación y Ejecucion
 Pasos para la instalación y ejecucion de la app:
 
  1. Clonar el repositorio `git clone https://github.com/vittojf/prueba-tecnica.git`
