@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const Header = ({ name, profileImage,loading }) => {
   return (
-    <motion.header initial={{opacity:0}} animate={{opacity:1}} transition={{delay:0.1,ease:"easeInOut"}} className={styles.header}>
+    <header  className={styles.header}>
     {loading?<></>:  <motion.section initial={{opacity:0}} animate={{opacity:1}} className={styles.infoHeader}>
         
         <Image
@@ -17,7 +17,7 @@ const Header = ({ name, profileImage,loading }) => {
         />
         <motion.h1>{name}</motion.h1>
       </motion.section>}
-    </motion.header>
+    </header>
   );
 };
 
