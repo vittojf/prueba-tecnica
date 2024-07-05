@@ -1,8 +1,14 @@
 
 ## Prueba Tecnica - Perfil de usuario
 
-Primero, instala las dependencias del proyecto:
-```bash
+
+
+# Instalación y Ejecucion
+Pasos para la instalación y ejecucion de la app:
+
+ 1. Clonar el repositorio `git clone https://github.com/vittojf/prueba-tecnica.git`
+ 2. Instalar los paquetes de node para hacer funcionar la app
+ ```bash
 npm install
 # or
 yarn install
@@ -11,10 +17,7 @@ pnpm install
 # or
 bun install
 ```
-
-
-Luego, ejecuta el servidor de desarrollo:
-
+ 4. Una vez que tengas todo listo ejecute la aplicación
 ```bash
 npm run dev
 # or
