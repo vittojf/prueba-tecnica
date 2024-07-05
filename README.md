@@ -1,6 +1,7 @@
 
-## Instalar Dependencias
+## Prueba Tecnica - Perfil de usuario
 
+Primero, instala las dependencias del proyecto:
 ```bash
 npm install
 # or
@@ -11,8 +12,8 @@ pnpm install
 bun install
 ```
 
-## Levantar proyecto
-Primero, ejecuta el servidor de desarrollo:
+
+Luego, ejecuta el servidor de desarrollo:
 
 ```bash
 npm run dev
